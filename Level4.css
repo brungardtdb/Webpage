@@ -1,0 +1,91 @@
+
+h1 {
+	font-family: Indie Flower;
+	text-align: center;
+	font-size: 200px;
+}
+
+h1:hover {
+	color:grey;
+}
+
+h2{
+	font-family: Rammetto One; 
+	text-align: center;
+	font-size: 50px;
+}
+
+h3{
+	font-family: Rammetto One; 
+	text-align: center;
+	font-size: 20px;
+}
+
+
+
+body {
+	font-family: Georgia;		
+	text-align: center;
+	font-size: 30px;
+	background-color: rgb(9, 143, 160);
+	margin: 20% 30% 30%;	
+}
+
+.ML{
+	color: maroon;
+}
+
+.tag{
+	text-align: left;
+}
+
+img{
+	height: 300px;
+	width: 450px
+	}
+
+#tall{
+	height: 500px;
+	width: 400px;
+}
+
+#special{
+	height: 400px;
+	width: 650px;
+}
+
+#bottom{
+	border-bottom: none;
+}
+
+table {
+	
+	border: solid black;
+	background-color: grey;
+
+}
+
+th {
+	margin: 25% 25% 25% 25%;
+	height: 50px;
+	
+}
+
+
+th, td {
+	font-size: 30px;
+	
+	border-bottom: solid black;
+}
+
+.left{
+	border-left: solid black;
+}
+
+.right{
+	border-right: solid black;
+}
+
+a:visited {
+	color:gray;
+}
